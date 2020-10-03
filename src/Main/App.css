@@ -1,0 +1,81 @@
+.App {
+    background-color: black;
+  }
+
+.navbar {
+  background: rgb(21,31,40);
+  background: radial-gradient(circle, rgba(21,31,40,1) 0%, rgba(35,53,68,1) 80%); 
+}
+
+.gradient-1 {
+  background: rgb(36,162,190);
+  background: linear-gradient(90deg, rgba(36,162,190,1) 82%, rgba(36,190,121,1) 100%); 
+}
+
+.container-fluid {
+    background: #233544;
+}
+
+
+.container-gradient {
+  background: rgb(27,42,55);
+  background: linear-gradient(0deg, rgba(27,42,55,1) 0%, rgba(35,53,68,1) 6%); 
+}
+
+.container-gradient-2 {
+  background: rgb(21,31,40);
+  background: radial-gradient(circle at top, rgba(21,31,40,1) 0%, rgba(35,53,68,1) 65%); 
+}
+
+.col {
+  font-size: medium;
+}
+
+.table-head {
+  background: #24A2BE;
+}
+
+.table{
+  background: #2C4156;
+}
+
+.table-btn {
+  width: 160px;
+  background-color: #24A2BE;
+  border-color: #24A2BE;
+}
+
+.fa {
+  font-size: 72px;
+  color:  #24A2BE;
+}
+
+.quote {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.centered-text{
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.embed-link{
+  color: #24A2BE;
+}
+
+.bottom-font-1 {
+  font-size: 11px;
+  color: darkgrey;
+}
+
+.bottom-font-2 {
+  font-size: 18px;
+  color: darkgrey;
+}
+
+.card {
+  border-bottom-width: 3px;
+  border-right-width: 3px;
+  background-color: #233544;
+}
