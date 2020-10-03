@@ -26,18 +26,17 @@ function App() {
         <div className="row pt-3 justify-content-center">
           <div className="container col-6">
             <div className="row">
-              <div className="font-italic">
-                <p>Search a team, a player or a champion: </p>
-              </div>
-              &nbsp;
-              &nbsp;
-            <form class="form-inline">
-              <div class="md-form">
-                <input class="form-control" type="text" placeholder="Search" aria-label="Search"/>
-              </div>
-            </form>
+                <div className="font-italic">
+                  <p>Search a team, a player or a champion: </p>
+                </div>
+                &nbsp;
+                &nbsp;
+              <form class="form-inline">
+                <div class="md-form">
+                  <input class="form-control" type="text" placeholder="Search" aria-label="Search"/>
+                </div>
+              </form>
             </div>
-           
           </div>   
         </div>
       
